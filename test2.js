@@ -1,3 +1,4 @@
+
 let firstClickTime = 0;
 let resetTimer;
 let blueFrame; // 青い枠の要素をグローバル変数として定義
